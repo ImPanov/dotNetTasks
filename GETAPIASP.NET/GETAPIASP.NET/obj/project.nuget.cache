@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQtgkpZ2Yri9sP/LP4pqf+dfmSvi8xrao2v0RXJXLVri4d+a/wo/tt+5JQTL3O2550gERnjlQcEsSWif3Xdxaw==",
+  "success": true,
+  "projectFilePath": "D:\\by_panov_work_and_studies\\practic\\c#\\GETAPIASP.NET\\GETAPIASP.NET\\GETAPIASP.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

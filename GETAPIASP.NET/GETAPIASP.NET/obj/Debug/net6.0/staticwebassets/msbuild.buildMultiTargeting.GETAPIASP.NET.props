@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GETAPIASP.NET.props" />
+</Project>
