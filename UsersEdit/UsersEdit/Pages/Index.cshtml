@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Avatar</th>
+            <th scope="col">Name</th>
+            @if (User.IsInRole("Admin"))
+             {
+            <th scope="col">Button</th>
+             }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.users)
+        {
+            string AvatarUrl = item.AvatarsImg ?? "avatars/default-avatar.jpg";
+
+
+            <tr>
+                <td><img class="rounded-circle" width="25px" height="auto" src="~/@AvatarUrl" /></td>
+                <td>@item.UserName</td>
+                @if (User.IsInRole("Admin"))
+                {
+                <td>
+                    <form method="post">
+                        <input asp-route-id="@item.Id" disabled="@(item.Id==Model.idUser ? "disabled" : null)" class="btn btn-lg btn-primary" type="submit" value="Delete" asp-page-handler="DeleteUser" />
+                    </form>
+                </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
