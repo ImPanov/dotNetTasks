@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q8JQyCS2a80Q4GDowfX6e7KaPwZiXIfnQXqdNL9nSiXOpkIfJwtPXh4O2pO+B3fQJ3J1ymV2sm9RaJKHWT8VaA==",
+  "success": true,
+  "projectFilePath": "D:\\by_panov_work_and_studies\\practic\\{Илья Панов} Tasks dotnet\\APIPOSTMVC\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\panov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\panov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\panov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\panov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\panov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

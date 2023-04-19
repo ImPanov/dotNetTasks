@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\by_panov_work_and_studies\\practic\\c#\\GETAPIASP.NET\\GETAPIASP.NET\\GETAPIASP.NET.csproj",
+      "projectUniqueName": "D:\\by_panov_work_and_studies\\practic\\{Илья Панов} Tasks dotnet\\GETAPIASP.NET\\GETAPIASP.NET\\GETAPIASP.NET.csproj",
       "projectName": "GETAPIASP.NET",
-      "projectPath": "D:\\by_panov_work_and_studies\\practic\\c#\\GETAPIASP.NET\\GETAPIASP.NET\\GETAPIASP.NET.csproj",
+      "projectPath": "D:\\by_panov_work_and_studies\\practic\\{Илья Панов} Tasks dotnet\\GETAPIASP.NET\\GETAPIASP.NET\\GETAPIASP.NET.csproj",
       "packagesPath": "C:\\Users\\panov\\.nuget\\packages\\",
-      "outputPath": "D:\\by_panov_work_and_studies\\practic\\c#\\GETAPIASP.NET\\GETAPIASP.NET\\obj\\",
+      "outputPath": "D:\\by_panov_work_and_studies\\practic\\{Илья Панов} Tasks dotnet\\GETAPIASP.NET\\GETAPIASP.NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\sgrrs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
